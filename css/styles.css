@@ -1,0 +1,262 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1,
+h2,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+
+
+
+.container-fluid {
+    padding: 4% 15% 1%;
+}
+
+
+
+
+/* sections */
+.white-sec {
+    background-color: #fff;
+}
+
+.color-sec {
+    background-color: rgb(255, 76, 104, 0.9);
+    color: #fff;
+}
+
+
+
+
+/* headings */
+.big-head {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 350%;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.meet {
+    text-align: left;
+}
+
+p {
+    color: #958c8c;
+}
+
+#title {
+    position: relative;
+}
+
+
+
+
+/* Navbar */
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 1rem;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+
+.show {
+    opacity: 0.8;
+    border: none;
+}
+
+.dropdown-menu{
+    border: 0px;
+}
+
+
+
+
+/* download buttons */
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+
+
+
+/* Title*/
+#title .container-fluid {
+    padding: 3% 15%;
+}
+
+.title-img {
+    width: 60%;
+    transform: rotate(20deg);
+    /* position: relative;
+    top: 30%;
+    left: 40%; */
+}
+
+
+
+/* Features */
+.feature-title {
+    font-size: 1.5rem;
+}
+
+i {
+    color: #ff4c68;
+    margin-bottom: 1rem;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+#features {
+
+    position: relative;
+}
+
+.feature-box {
+    padding: 5% 5% 3%;
+    line-height: 2rem;
+}
+
+.feature-box:hover i {
+    opacity: 1;
+}
+
+/* testimonials */
+/* #testimonials {
+    background-color: ;
+} */
+
+.testimonial-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+    padding: 5%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    height: auto;
+    margin: 0% 1%;
+    margin: 1%;
+}
+
+
+
+
+/* press */
+#press {
+    background-color: rgb(255, 76, 104, 0.9);
+    padding-bottom: 3%;
+}
+
+.logos {
+    width: 15%;
+    margin: 2%;
+}
+
+
+
+
+/* Pricing section */
+#pricing {
+    padding: 10%;
+}
+
+.price-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.price-head {
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.card {
+    border: solid rgb(255, 77, 103, 0.8) 0.5px
+}
+
+.card-header {
+    background-color: rgba(255, 77, 103, 0.8);
+    color: white;
+}
+
+.card:hover .card-header {
+    background-color: rgb(255, 77, 103);
+}
+
+.btn-lg {
+    border-top: solid rgb(255, 77, 103, 0.9) 0.5px;
+    color: rgb(255, 77, 103);
+    border-radius:0;
+}
+
+.btn-lg:hover {
+    background-color: rgb(255, 77, 103, 0.8);
+    color: white;
+    border: solid rgb(255, 77, 103, 0.8) 0.5px;
+}
+
+
+
+
+/* Call to action */
+
+
+
+
+/* footer */
+#footer {
+    font-size: small;
+}
+
+
+.foot-icon {
+    padding: 1.5%;
+}
+
+.foot-icon:hover {
+    cursor: pointer;
+    font-size: 200%;
+}
+
+
+
+/* media */
+@media (max-width: 1024px) {
+    #title {
+        color: #fff;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0deg);
+    }
+}
