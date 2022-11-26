@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center"> tinDog </h1> 
 </div>
-<a href="https://mahiprasad.github.io/tinDog/" target="_blank">Visit here </a>
 
 
 <p align="center">
@@ -21,7 +20,7 @@ Built using:
 <hr>
 <br>
 
-## Preview
+## Site Portal
 
 <div align="center">
 <a href="https://mahiprasad.github.io/tinDog/" target="_blank"> <img alt="tinDog" src="./images/2022-11-26.png" /> </a>
