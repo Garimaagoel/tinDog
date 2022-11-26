@@ -24,7 +24,7 @@ Built using:
 ## Preview
 
 <div align="center">
-<a href="https://srm-acm-women.github.io/ACM-W-website/" target="_blank"> <img alt="home-page" src="./assets/readme/homepage-ss.png" /> </a>
+<a href="https://mahiprasad.github.io/tinDog/" target="_blank"> <img alt="tinDog" src="./images/2022-11-26.png" /> </a>
 <br>
 <br>
 <hr>
@@ -43,9 +43,9 @@ Mahi Prasad
   <img src = "https://github.com/mahiprasad.png?size=128"  height="120" alt="Kushagra Gupta">
 </p>
 <p align="center">
-<a href = "https://github.com/mahiprasad"><img src = "./assets/readme/github_icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/mahiprasad"><img src = "./images/readme/github_icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/mahi-prasad-7973211b6/">
-  <img src = "./assets/readme/linkedin_icon.svg" width="36" height="36"/>
+  <img src = "./images/readme/linkedin_icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
@@ -58,9 +58,9 @@ Garima Goel
 <img src = "https://github.com/Garimaagoel.png?size=128"  height="120" alt="Sanskriti Khare">
 </p>
 <p align="center">
-<a href = "https://github.com/Garimaagoel"><img src = "./assets/readme/github_icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/Garimaagoel"><img src = "./images/readme/github_icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/garima-goel-b52538212/">
-  <img src = "./assets/readme/linkedin_icon.svg" width="36" height="36"/>
+  <img src = "./images/readme/linkedin_icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
