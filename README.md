@@ -64,6 +64,21 @@ Garima Goel
 </p>
 </td>
 
+<td>
+
+Riya Ann Thomas
+
+<p align="center">
+<img src = "https://github.com/Riya-Ann-Thomas.png?size=128"  height="120" alt="Sanskriti Khare">
+</p>
+<p align="center">
+<a href = "https://github.com/Riya-Ann-Thomas"><img src = "./images/readme/github_icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/riya-ann-thomas-92bb2322a/">
+  <img src = "./images/readme/linkedin_icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
 
 </tr>
 
