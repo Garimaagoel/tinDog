@@ -80,6 +80,22 @@ Riya Ann Thomas
 </td>
 
 
+<td>
+
+Aishwarya Chandrasekaran
+
+<p align="center">
+<img src = "https://github.com/chocolatecupcake2002.png?size=128"  height="120" alt="Sanskriti Khare">
+</p>
+<p align="center">
+<a href = "https://github.com/chocolatecupcake2002"><img src = "./images/readme/github_icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aishwarya-chandrasekaran-192514112/">
+  <img src = "./images/readme/linkedin_icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
 </tr>
 
 </table>
